@@ -16,8 +16,8 @@ The generated workload file serves as input for the simulator.
   a multilevel feedback queue scheduling algorithm. Here are the key features:
 
 ### 1.Multilevel Feedback Queue:
-   -Implements a multilevel feedback queue scheduling algorithm.
-   -Utilizes four queues with varying priorities: RR with different time quanta, SRTF, and FCFS.
+     Implements a multilevel feedback queue scheduling algorithm.
+     Utilizes four queues with varying priorities: RR with different time quanta, SRTF, and FCFS.
    
 ### 2.Queue Characteristics:
       Round Robin (RR) queues with customizable time quanta.
@@ -25,8 +25,8 @@ The generated workload file serves as input for the simulator.
       First-Come-First-Serve (FCFS) for the lowest priority queue.
       
 ### 3.User-Configurable Parameters:
-    ##### Allows users to set time quanta for RR queues.
-    ##### Incorporates 𝛼 parameter for predicting the duration of the next CPU burst in SRTF.
+      Allows users to set time quanta for RR queues.
+      Incorporates 𝛼 parameter for predicting the duration of the next CPU burst in SRTF.
 
 
 

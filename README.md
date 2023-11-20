@@ -34,6 +34,6 @@ The generated workload file serves as input for the simulator.
 
 
 ## Partner 
-  .Lama Naser 1200190
+    Lama Naser 1200190
 
   

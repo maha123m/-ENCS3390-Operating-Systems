@@ -9,7 +9,7 @@ of two main parts: the Workload Generator and the Simulator.
 Generates a random workload and saves it to a file with the specified structure.
 Workload file structure includes Process ID (PID), Arrival Time, CPU Burst, and IO Burst times.
 User-configurable parameters include the number of processes, maximum arrival time, maximum number of CPU bursts, and ranges for IO and CPU burst durations.
-The generated workload file serves as input for the simulator.
+The generated workload file serves as input for the simulator. 
 
 ## Simulator
   The simulator component of this project offers a dynamic and interactive experience in simulating 

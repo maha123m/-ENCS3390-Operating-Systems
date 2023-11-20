@@ -25,8 +25,8 @@ The generated workload file serves as input for the simulator.
   First-Come-First-Serve (FCFS) for the lowest priority queue.
       
 ### 3.User-Configurable Parameters:
-  Allows users to set time quanta for RR queues.
-  Incorporates 𝛼 parameter for predicting the duration of the next CPU burst in SRTF.
+  ##### Allows users to set time quanta for RR queues.
+  ##### Incorporates 𝛼 parameter for predicting the duration of the next CPU burst in SRTF.
 
 
 

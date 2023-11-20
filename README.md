@@ -20,9 +20,9 @@ a multilevel feedback queue scheduling algorithm. Here are the key features:
   .Utilizes four queues with varying priorities: RR with different time quanta, SRTF, and FCFS.
    
 ### 2.Queue Characteristics:
-  .Round Robin (RR) queues with customizable time quanta.
-  .Shortest-Remaining-Time First (SRTF) for efficient CPU burst handling.
-  .First-Come-First-Serve (FCFS) for the lowest priority queue.
+  *Round Robin (RR) queues with customizable time quanta.
+  *Shortest-Remaining-Time First (SRTF) for efficient CPU burst handling.
+  *First-Come-First-Serve (FCFS) for the lowest priority queue.
       
 ### 3.User-Configurable Parameters:
   .Allows users to set time quanta for RR queues.

@@ -31,7 +31,7 @@ The generated workload file serves as input for the simulator.
 ## Results 
 
 <div>
-  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/7c3af2c7-2ec9-4fd9-87a3-7d98ca228c70" width="500" height="400"> 
+  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/7c3af2c7-2ec9-4fd9-87a3-7d98ca228c70" width="800" height="400"> 
   
 
   <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/1fc65742-42df-4594-adb6-6b4d71c7e3b3" width="900" height="400"> 

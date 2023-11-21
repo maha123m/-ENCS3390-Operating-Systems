@@ -47,18 +47,13 @@ The generated workload file serves as input for the simulator.
   
 
    <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/c89d8bd2-00c9-4362-a6fe-2a45dabfbabd" width="900" height="400"> 
+
    
+  <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/3519b5ea-b2ac-417b-bf3c-29320a8d7dd3" width="900" height="400"> 
 
-    <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/b15d2000-1018-4f52-a09e-4fa14ccad738" width="900" height="400"> 
-
-  
-
+   <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/57b78c6b-15d4-429e-a8c8-097e3f10451f" width="900" height="400"> 
    
 </div>
-
-
-
-
 
 ## Partner 
     Lama Naser 1200190 

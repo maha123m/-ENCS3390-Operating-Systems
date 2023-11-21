@@ -31,19 +31,27 @@ The generated workload file serves as input for the simulator.
 ## Results 
 
 <div>
-  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/7c3af2c7-2ec9-4fd9-87a3-7d98ca228c70" width="800" height="400"> 
+  <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/e0a406ab-f8ac-4637-9124-e508d0ec9a4e" width="900" height="400"> 
   
 
-  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/1fc65742-42df-4594-adb6-6b4d71c7e3b3" width="900" height="400"> 
+  <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/be1cc3dc-4d7f-462d-a4f2-b8f97afea249" width="900" height="400"> 
   
 
-  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/e983dae5-e5f2-415f-8d7c-bb905b6f0ab0" width="900" height="400">  
+  <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/cd838d56-3bc6-466b-884d-32fe34a203db" width="900" height="400">  
   
 
-  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/6ef57ad1-e730-4f42-bdab-79b6135e0278" width="900" height="400"> 
+  <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/24facdfd-e9a2-41e6-aff7-eb9d83dc70f3" width="900" height="400"> 
 
   
-  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-2/assets/99613493/997c3e40-4e63-45d9-b991-ba628c588077" width="900" height="400"> 
+  <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/0e293512-be4e-49d2-92ad-49385e4bd4f1" width="900" height="400"> 
+  
+
+   <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/c89d8bd2-00c9-4362-a6fe-2a45dabfbabd" width="900" height="400"> 
+   
+
+    <img src ="https://github.com/maha123m/ENCS3390-Operating-Systems/assets/99613493/b15d2000-1018-4f52-a09e-4fa14ccad738" width="900" height="400"> 
+
+  
 
    
 </div>
